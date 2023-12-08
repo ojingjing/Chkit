@@ -9,7 +9,7 @@
 ## team  
 |korcp|ojingjing|
 |:---:|:---:|
-|<a href="https://github.com/Korcp"><img width="100" height="100" alt="image" src="https://github.com/ojingjing/Chkit/assets/48702158/fcfba6b4-765f-49e7-9b06-bf0893a938f0"></a>|<img width="100" height="100" alt="image" src="https://github.com/ojingjing/Chkit/assets/48702158/4a64860b-d96c-40a8-aea0-abd7f16a0a0e">|
+|<a href="https://github.com/Korcp"><img width="100" height="100" alt="image" src="https://github.com/ojingjing/Chkit/assets/48702158/fcfba6b4-765f-49e7-9b06-bf0893a938f0"></a>|<a href="https://github.com/ojingjing"><img width="100" height="100" alt="image" src="https://github.com/ojingjing/Chkit/assets/48702158/4a64860b-d96c-40a8-aea0-abd7f16a0a0e"></a>|
 
 
 <img width="900" alt="image" height="500" src="https://github.com/ojingjing/Chkit/assets/48702158/4e41d16b-e104-47e8-a2b5-2a7c13e453ae">
