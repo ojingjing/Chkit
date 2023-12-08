@@ -34,4 +34,8 @@
 <img width="900" height="500" alt="image" src="https://github.com/ojingjing/Chkit/assets/48702158/e11e6980-18dc-44f5-89f4-3b1ff1d75b44">
 
 
-<img width="900" height="500" alt="image" src="https://github.com/ojingjing/Chkit/assets/48702158/89d4bb5f-b28f-49f9-81fa-3374c2758302">
+## 참여소감
+
+opensorce를 이용하여 한달이나 걸려 개발하였던 앱을 단 72시간만에 개발을 완료한게 신기 하였다
+이런 경험으로 다른 예약 서비스를 만들수있는 자신감이 생겼고
+앞으로 필요한 서비스가 생기면 빠른시간안에 개발을 수행할수 있을것 같다.
